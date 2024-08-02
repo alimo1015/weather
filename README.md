@@ -6,12 +6,12 @@ A simple web application that provides the current weather, humidity, and wind s
 
 ## Live Demo
 
-You can view the live version of the application at GitHub Pages URL.
+You can view the live version of the application at GitHub Pages URL: https://alimo1015.github.io/weather/
 
 ## Usage
 
 Open the application: Visit the live demo URL provided above.
-Enter a city: Type the name of a city into the search bar.
+Enter a city: Type the name of a city into the search bar, then press the search icon.
 View the results: The application will display the current weather, humidity, and wind speed for the entered city.
 ## Features
 
