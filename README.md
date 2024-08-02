@@ -11,7 +11,7 @@ You can view the live version of the application at GitHub Pages URL: https://al
 ## Usage
 
 Open the application: Visit the live demo URL provided above.
-Enter a city: Type the name of a city into the search bar, then press the search icon.
+Enter a city: Type the name of a city into the search bar, then click the search icon or press enter.
 View the results: The application will display the current weather, humidity, and wind speed for the entered city.
 ## Features
 
